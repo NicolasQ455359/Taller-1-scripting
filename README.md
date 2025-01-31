@@ -41,4 +41,38 @@ class Program
 ![Captura de pantalla 2025-01-30 185548](https://github.com/user-attachments/assets/4659803c-b4be-4fc1-b5bc-c239f1900550)
 
 
+## RESPUESTA PREGUNTAS DE TEORIA
+
+### 1. ¿Qué es un ciclo infinito?
+
+Un ciclo infinito es un bucle que nunca termina porque su condición de salida nunca se cumple. Esto puede hacer que el programa se bloquee o consuma muchos recursos hasta que sea detenido manualmente.
+```c#
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        while (true) // La condición siempre es verdadera, el bucle nunca se detiene
+        {
+            Console.WriteLine("Esto es un ciclo infinito...");
+        }
+    }
+}
+```
+### 2. ¿Qué es un error en tiempo de ejecución?
+```c#
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int divisor = 0;
+        int resultado = 10 / divisor; // Error en tiempo de ejecución: división por cero
+        Console.WriteLine($"El resultado es: {resultado}");
+    }
+}
+```
+
 
