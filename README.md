@@ -61,6 +61,8 @@ class Program
 }
 ```
 ### 2. ¿Qué es un error en tiempo de ejecución?
+
+Un error en tiempo de ejecución ocurre cuando un programa se ejecuta y encuentra una situación inesperada, como división por cero, acceso a índices fuera de rango o referencias nulas. Esto provoca que el programa se detenga abruptamente a menos que se maneje correctamente.
 ```c#
 using System;
 
