@@ -1,5 +1,5 @@
 # Taller-1-scripting
-
+```c# 
 using System;
 using System.Collections.Generic;
 
@@ -28,3 +28,4 @@ class Program
     static long CalcularFactorialIterativo(int n) { return 0; }
     static void Main() {}
 }
+```
