@@ -1,4 +1,5 @@
 # Taller-1-scripting
+## 20 firmas diferentes de funciones
 ```c# 
 using System;
 using System.Collections.Generic;
@@ -29,3 +30,15 @@ class Program
     static void Main() {}
 }
 ```
+
+
+## Retos de manejo de terminal
+
+![Captura de pantalla 2025-01-30 182305](https://github.com/user-attachments/assets/70c4ef69-fa4b-44e3-9fd6-b2a80b6892e0)
+
+![Captura de pantalla 2025-01-30 182403](https://github.com/user-attachments/assets/58282006-b06a-4673-bbe3-4db13164e979)
+
+![Captura de pantalla 2025-01-30 185548](https://github.com/user-attachments/assets/4659803c-b4be-4fc1-b5bc-c239f1900550)
+
+
+
